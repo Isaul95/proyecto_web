@@ -1,7 +1,7 @@
 package proyectoweb.modelo;
 
 public class Alumnos {
-	private Long id_alumno;
+	private Long id_alumno;// se movio
 	private String nombre;
 	private String apellido;
 	private String sexo;
