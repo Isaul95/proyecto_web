@@ -4,7 +4,7 @@ import java.util.List;
 
 import proyectoweb.modelo.Alumnos;
 
-public interface Servicio {
+public interface Servicio {//otro comentario
 	
 		public void eliminaralumnos();
 
