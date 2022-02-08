@@ -33,7 +33,7 @@ public String Login() {
 	for(Alumnos ver:listadealumnos) {
 		System.out.println("id:"+ver.getTelefono());
 			
-		}//nuevo comentario
+		}//se comenta esta linea
 	return "inicio";
 }
 @RequestMapping("/inicio")
