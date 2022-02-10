@@ -6,7 +6,7 @@ import proyectoweb.modelo.Alumnos;
 
 public interface Servicio {//otro comentario
 	
-		public void eliminaralumnos();//jsjsjjs
+		public void eliminaralumnos();//jsjsjjsjsdha
 
 		public List<Alumnos> obteneralumnos();
 
